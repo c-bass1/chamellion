@@ -65,7 +65,7 @@ public class WebBaseTest extends BaseTest {
      * Deprecated - not required anymore with DriverManager
      */
     @Deprecated
-    private OrasiDriver driver;
+	protected OrasiDriver driver;
 
     /**
      *
